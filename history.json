@@ -39,5 +39,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 13 — DNS Lookup.html",
+    "title": "Where Does google.com Live? DNS Lookup Explained 🔎",
+    "video": "VIZ 13 — DNS Lookup.mp4",
+    "timestamp": "2026-10-23T21:41:38Z",
+    "publish": {
+      "instagram": {
+        "id": "17902897929373884",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "2336218390539249",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
