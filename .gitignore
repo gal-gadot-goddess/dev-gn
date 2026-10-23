@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+output/
+.rec_*
+*.mp4
+*.webm
+*.jpg
+.vscode/
+.idea/
+.DS_Store
