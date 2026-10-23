@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "file": "VIZ 11 — Kubernetes Self-Healing.html",
+    "title": "Kubernetes Self-Healing: Crash → Auto-Recover 🛡️",
+    "video": "VIZ 11 — Kubernetes Self-Healing.mp4",
+    "timestamp": "2026-10-23T20:52:58Z",
+    "publish": {
+      "instagram": {
+        "id": "17997774338828653",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1435264514627478",
+        "page": "Devopsgen",
+        "status": "success"
+      }
+    }
+  }
+]
