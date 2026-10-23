@@ -2,7 +2,7 @@
 
 > Automated Daily Video Publishing Pipeline for DevOps, Kubernetes, Docker, CI/CD, Terraform, Cloud Architecture, and SRE.
 
-[![Daily DevOps Reel Automation](https://github.com/kreggscode/dev-gn/actions/workflows/automate.yml/badge.svg)](https://github.com/kreggscode/dev-gn/actions/workflows/automate.yml)
+[![Daily DevOps Reel Automation](https://github.com/gal-gadot-goddess/dev-gn/actions/workflows/automate.yml/badge.svg)](https://github.com/gal-gadot-goddess/dev-gn/actions/workflows/automate.yml)
 
 ## 📌 Platforms & Channels
 - **Instagram**: [@devopsgen](https://www.instagram.com/devopsgen/) (ID: `17841464799205820`)
