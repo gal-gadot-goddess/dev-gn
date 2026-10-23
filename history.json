@@ -16,5 +16,28 @@
         "status": "success"
       }
     }
+  },
+  {
+    "file": "VIZ 20 — Canary Release.html",
+    "title": "Canary Releases: Ship 5% First, Sleep Better 😴",
+    "video": "VIZ 20 — Canary Release.mp4",
+    "timestamp": "2026-10-23T20:57:19Z",
+    "publish": {
+      "instagram": {
+        "id": "18042479480645395",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1782982119633390",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
