@@ -62,5 +62,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 18 — ClickOps vs Terraform.html",
+    "title": "ClickOps vs Terraform: Why Drift Wins 🧨",
+    "video": "VIZ 18 — ClickOps vs Terraform.mp4",
+    "timestamp": "2026-10-24T13:13:49Z",
+    "publish": {
+      "instagram": {
+        "id": "18109581818249876",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1060133967094818",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
