@@ -85,5 +85,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 08 — Manual Deploy vs CI_CD.html",
+    "title": "Manual Deploys Ship Bugs—CI/CD Blocks Them 🛡️",
+    "video": "VIZ 08 — Manual Deploy vs CI_CD.mp4",
+    "timestamp": "2026-10-25T13:40:06Z",
+    "publish": {
+      "instagram": {
+        "id": "18172487035458738",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "981357598352005",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
