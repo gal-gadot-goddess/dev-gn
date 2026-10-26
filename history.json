@@ -108,5 +108,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 15 — Git Secrets vs Vault.html",
+    "title": "Git Secrets vs Vault: Stop Leaks Forever 🔐",
+    "video": "VIZ 15 — Git Secrets vs Vault.mp4",
+    "timestamp": "2026-10-26T16:01:25Z",
+    "publish": {
+      "instagram": {
+        "id": "18115307897046756",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1114074351011063",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
