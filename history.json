@@ -131,5 +131,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 14 — Load Balancer.html",
+    "title": "Load Balancer Algorithms: RR vs Least Conn 🎯",
+    "video": "VIZ 14 — Load Balancer.mp4",
+    "timestamp": "2026-10-27T15:15:20Z",
+    "publish": {
+      "instagram": {
+        "id": "17921017251243812",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1641527670796284",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
