@@ -154,5 +154,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 12 — Docker Layer Cache.html",
+    "title": "Docker Builds Slow? Cache Layers Fix It 🐳",
+    "video": "VIZ 12 — Docker Layer Cache.mp4",
+    "timestamp": "2026-10-28T15:52:37Z",
+    "publish": {
+      "instagram": {
+        "id": "18210188884371289",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1447567273998277",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
