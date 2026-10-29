@@ -177,5 +177,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 26 — SLO & Error Budget.html",
+    "title": "SLO & Error Budget: How It Works Under The Hood ⚙️",
+    "video": "VIZ 26 — SLO & Error Budget.mp4",
+    "timestamp": "2026-10-29T15:58:54Z",
+    "publish": {
+      "instagram": {
+        "id": "18043553390637180",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "964037072997329",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
