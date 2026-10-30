@@ -200,5 +200,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 10 — Big-Bang Deploy vs Blue-Green.html",
+    "title": "Big-Bang vs Blue-Green: Who Sees the Bug? 🐞",
+    "video": "VIZ 10 — Big-Bang Deploy vs Blue-Green.mp4",
+    "timestamp": "2026-10-30T15:45:16Z",
+    "publish": {
+      "instagram": {
+        "id": "18036952148907146",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "2220602732137844",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
