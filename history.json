@@ -223,5 +223,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 46 — TLS Certificate Auto-Renewal.html",
+    "title": "🛡️ TLS Auto-Renewal: Avoid 3AM Certificate Outages",
+    "video": "VIZ 46 — TLS Certificate Auto-Renewal.mp4",
+    "timestamp": "2026-10-31T15:14:12Z",
+    "publish": {
+      "instagram": {
+        "id": "18134324032772986",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1823188178921258",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
