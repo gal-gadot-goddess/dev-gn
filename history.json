@@ -246,5 +246,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 27 — Snowflake vs Immutable Servers.html",
+    "title": "🧊 Snowflake vs Immutable Servers: Can You Rebuild It?",
+    "video": "VIZ 27 — Snowflake vs Immutable Servers.mp4",
+    "timestamp": "2026-11-01T15:55:26Z",
+    "publish": {
+      "instagram": {
+        "id": "18098991836111440",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "975238075142616",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
