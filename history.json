@@ -269,5 +269,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "35-terraform-dependency-graph.html",
+    "title": "Terraform Graphs: Build Order, Destroy Reverse 🔁",
+    "video": "35-terraform-dependency-graph.mp4",
+    "timestamp": "2026-11-02T19:21:14Z",
+    "publish": {
+      "instagram": {
+        "id": "18021299891953941",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "983518558150412",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
