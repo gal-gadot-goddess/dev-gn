@@ -315,5 +315,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 22 — Circuit Breaker.html",
+    "title": "Circuit Breakers Stop Cascades ⚡",
+    "video": "VIZ 22 — Circuit Breaker.mp4",
+    "timestamp": "2026-11-04T17:01:04Z",
+    "publish": {
+      "instagram": {
+        "id": "18344245906285887",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "2340568803434227",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
