@@ -338,5 +338,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 36 — Helm vs Copy-Paste YAML.html",
+    "title": "Helm vs Copy-Paste YAML: Drift Wins 🧨",
+    "video": "VIZ 36 — Helm vs Copy-Paste YAML.mp4",
+    "timestamp": "2026-11-05T17:15:46Z",
+    "publish": {
+      "instagram": {
+        "id": "18115092701145226",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "995564759606064",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
