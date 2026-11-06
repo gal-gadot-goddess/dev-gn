@@ -361,5 +361,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 47 — Backup, Restore and Point-in-Time Recovery.html",
+    "title": "Backups Fail—How PITR Saves You ⏳",
+    "video": "VIZ 47 — Backup, Restore and Point-in-Time Recovery.mp4",
+    "timestamp": "2026-11-06T16:42:05Z",
+    "publish": {
+      "instagram": {
+        "id": "17909484198597519",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1849680729380538",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
