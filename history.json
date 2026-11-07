@@ -384,5 +384,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "41-devops-database-zero-downtime-schema-migration-expand-migrate-contract-pattern-vs-naive-rename-column-animated-reel.html",
+    "title": "Rename Columns Without Downtime 🔁",
+    "video": "41-devops-database-zero-downtime-schema-migration-expand-migrate-contract-pattern-vs-naive-rename-column-animated-reel.mp4",
+    "timestamp": "2026-11-07T15:34:03Z",
+    "publish": {
+      "instagram": {
+        "id": "17914453134499194",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1118150564416198",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
