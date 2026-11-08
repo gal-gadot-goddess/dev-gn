@@ -407,5 +407,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "38-devops-ci-cd-build-once-promote-same-artifact-vs-rebuild-per-environment-animated-reel.html",
+    "title": "Build Once, Promote Everywhere 🔁",
+    "video": "38-devops-ci-cd-build-once-promote-same-artifact-vs-rebuild-per-environment-animated-reel.mp4",
+    "timestamp": "2026-11-08T15:53:54Z",
+    "publish": {
+      "instagram": {
+        "id": "18137969698709020",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1565371851941851",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
