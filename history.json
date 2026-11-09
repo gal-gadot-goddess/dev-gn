@@ -430,5 +430,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 21 — Feature Flags.html",
+    "title": "Feature Flags: Deploy Without Releasing 🧯",
+    "video": "VIZ 21 — Feature Flags.mp4",
+    "timestamp": "2026-11-09T19:40:10Z",
+    "publish": {
+      "instagram": {
+        "id": "17956617300289199",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1503077921881496",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
