@@ -453,5 +453,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 32 — Chaos Engineering (1).html",
+    "title": "Chaos Engineering: Break It First 🔥",
+    "video": "VIZ 32 — Chaos Engineering (1).mp4",
+    "timestamp": "2026-11-10T16:54:36Z",
+    "publish": {
+      "instagram": {
+        "id": "18087520148701085",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1182844621089796",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
