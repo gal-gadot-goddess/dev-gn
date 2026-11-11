@@ -476,5 +476,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 37 — Centralized Logging.html",
+    "title": "Where Did the Pod Logs Go? 🕵️‍♂️",
+    "video": "VIZ 37 — Centralized Logging.mp4",
+    "timestamp": "2026-11-11T17:04:43Z",
+    "publish": {
+      "instagram": {
+        "id": "18125543467936615",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "4664749107146499",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
