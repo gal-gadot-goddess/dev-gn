@@ -499,5 +499,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "48-devops-kubernetes-networking-ingress-controller-api-gateway-single-entrypoint-tls-termination-vs-loadbalancer-per-service-animated-reel.html",
+    "title": "One Door or Four? Ingress vs LBs in Kubernetes 🚪",
+    "video": "48-devops-kubernetes-networking-ingress-controller-api-gateway-single-entrypoint-tls-termination-vs-loadbalancer-per-service-animated-reel.mp4",
+    "timestamp": "2026-11-12T17:28:42Z",
+    "publish": {
+      "instagram": {
+        "id": "17956298718334617",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1668168054835609",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
