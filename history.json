@@ -522,5 +522,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 33 — Parallel CI Test Sharding.html",
+    "title": "Stop Waiting on CI: Shard 160 Tests ⚡",
+    "video": "VIZ 33 — Parallel CI Test Sharding.mp4",
+    "timestamp": "2026-11-13T17:10:34Z",
+    "publish": {
+      "instagram": {
+        "status": "failed",
+        "platform": "instagram",
+        "error": "Media publish failed: {'error': {'message': 'Media ID is not available', 'code': 9007, 'type': 'OAuthException', 'error_subcode': 2207027, 'is_transient': False, 'error_user_msg': 'The media is not ready for publishing, please wait for a moment', 'error_user_title': 'Cannot Publish', 'fbtrace_id': 'Akktde9BYTzhUEuV5IetiFT'}}"
+      },
+      "facebook": {
+        "id": "1477667220938582",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
