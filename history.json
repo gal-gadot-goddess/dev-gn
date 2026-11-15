@@ -568,5 +568,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 49 — CI Cost Optimization.html",
+    "title": "CI Cost Diet: Same Quality, Way Cheaper 💸",
+    "video": "VIZ 49 — CI Cost Optimization.mp4",
+    "timestamp": "2026-11-15T16:12:12Z",
+    "publish": {
+      "instagram": {
+        "id": "18648798091060555",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "994625996478760",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
