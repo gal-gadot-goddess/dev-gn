@@ -591,5 +591,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 23 — Rate Limiting (1).html",
+    "title": "Rate Limiting: Stop Bots Without Killing Users 🛡️",
+    "video": "VIZ 23 — Rate Limiting (1).mp4",
+    "timestamp": "2026-11-16T19:26:20Z",
+    "publish": {
+      "instagram": {
+        "id": "18078424895729507",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1846183683053252",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
