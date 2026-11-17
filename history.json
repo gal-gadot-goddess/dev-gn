@@ -614,5 +614,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 39 — Trunk-Based vs Long-Lived Branches.html",
+    "title": "Branching Wars: Trunk Daily Beats Long Branch Hell ⚔️",
+    "video": "VIZ 39 — Trunk-Based vs Long-Lived Branches.mp4",
+    "timestamp": "2026-11-17T18:20:40Z",
+    "publish": {
+      "instagram": {
+        "id": "18129008330301456",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1140958778679679",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
