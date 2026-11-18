@@ -637,5 +637,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 31 — kubectl apply.html",
+    "title": "kubectl apply: Desired State Magic in 2 Seconds 🧠",
+    "video": "VIZ 31 — kubectl apply.mp4",
+    "timestamp": "2026-11-18T18:08:57Z",
+    "publish": {
+      "instagram": {
+        "id": "18507262375101537",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1061089343656431",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
