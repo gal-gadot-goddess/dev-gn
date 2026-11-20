@@ -660,5 +660,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 42 — Incident Response War Room.html",
+    "title": "War Room vs Chaos: MTTR Drops Fast 🛡️",
+    "video": "VIZ 42 — Incident Response War Room.mp4",
+    "timestamp": "2026-11-20T17:42:06Z",
+    "publish": {
+      "instagram": {
+        "id": "18131509951852185",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1950178843058403",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
