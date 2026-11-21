@@ -683,5 +683,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 29 — Shift-Left Testing.html",
+    "title": "🧪 Shift-Left Testing: Catch Bugs Before Prod Devours Them",
+    "video": "VIZ 29 — Shift-Left Testing.mp4",
+    "timestamp": "2026-11-21T16:42:11Z",
+    "publish": {
+      "instagram": {
+        "id": "17994490548116048",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1135899409336914",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
