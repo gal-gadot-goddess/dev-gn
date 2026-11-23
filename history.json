@@ -729,5 +729,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 40 — Software Supply Chain Security.html",
+    "title": "Supply Chain Security: Who Guards Prod? 🛡️",
+    "video": "VIZ 40 — Software Supply Chain Security.mp4",
+    "timestamp": "2026-11-23T21:01:25Z",
+    "publish": {
+      "instagram": {
+        "id": "18081369011748935",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1872853353754433",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
