@@ -752,5 +752,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 25 — Resource Limits (OOMKilled).html",
+    "title": "K8s OOMKilled: Why Limits Save Neighbors 💥",
+    "video": "VIZ 25 — Resource Limits (OOMKilled).mp4",
+    "timestamp": "2026-11-24T20:04:38Z",
+    "publish": {
+      "instagram": {
+        "id": "17997439599025555",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1866818474336184",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
