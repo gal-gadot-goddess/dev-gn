@@ -775,5 +775,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "44-devops-dora-four-key-metrics-deployment-frequency-lead-time-change-failure-rate-mttr-low-vs-elite-performers-animated-reel.html",
+    "title": "DORA Metrics Explained: Elite vs Low Performers 🧠",
+    "video": "44-devops-dora-four-key-metrics-deployment-frequency-lead-time-change-failure-rate-mttr-low-vs-elite-performers-animated-reel.mp4",
+    "timestamp": "2026-11-25T19:03:38Z",
+    "publish": {
+      "instagram": {
+        "id": "17998825820842165",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "1136472892309342",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
