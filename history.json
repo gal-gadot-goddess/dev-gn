@@ -798,5 +798,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 16 — Logs vs Distributed Tracing.html",
+    "title": "Logs vs Traces: Find the Slow Service Fast 🕵️‍♂️",
+    "video": "VIZ 16 — Logs vs Distributed Tracing.mp4",
+    "timestamp": "2026-11-26T18:55:00Z",
+    "publish": {
+      "instagram": {
+        "id": "18127594255927249",
+        "platform": "instagram",
+        "status": "success"
+      },
+      "facebook": {
+        "id": "2079957489329426",
+        "page": "Devopsgen",
+        "status": "success"
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
