@@ -821,5 +821,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 09 — Fixed Servers vs Autoscaling.html",
+    "title": "Fixed Servers vs Autoscaling: Why 503 Happens 🚨",
+    "video": "VIZ 09 — Fixed Servers vs Autoscaling.mp4",
+    "timestamp": "2026-11-27T18:46:43Z",
+    "publish": {
+      "instagram": {
+        "status": "failed",
+        "platform": "instagram",
+        "error": "Container creation failed with URL: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":460,\"fbtrace_id\":\"AwUkr_OzhZdNP9LzlZ1Vu0i\"}}"
+      },
+      "facebook": {
+        "status": "failed",
+        "page": "Devopsgen",
+        "error": "Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons."
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
