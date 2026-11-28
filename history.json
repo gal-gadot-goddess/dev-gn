@@ -844,5 +844,28 @@
         "platform": "threads"
       }
     }
+  },
+  {
+    "file": "VIZ 30 — Docker Image Diet (Multi-Stage).html",
+    "title": "Slim Your Docker Images: Multi-Stage Diet 🐳",
+    "video": "VIZ 30 — Docker Image Diet (Multi-Stage).mp4",
+    "timestamp": "2026-11-28T17:27:11Z",
+    "publish": {
+      "instagram": {
+        "status": "failed",
+        "platform": "instagram",
+        "error": "Container creation failed with URL: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":460,\"fbtrace_id\":\"ALBKG51nq50fiR2qEsITEZC\"}}"
+      },
+      "facebook": {
+        "status": "failed",
+        "page": "Devopsgen",
+        "error": "Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons."
+      },
+      "threads": {
+        "status": "skipped",
+        "reason": "Missing credentials",
+        "platform": "threads"
+      }
+    }
   }
 ]
